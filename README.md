@@ -1,10 +1,11 @@
 # task_manager
 
-A new Flutter project.
+Flutter MyTasky App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project helps us in managing our daily tasks. It displays tasks in sorting order of time and show previous tasks too. 
+We can update status of our added tasks. It uses cloud service for backend.
 
 A few resources to get you started if this is your first Flutter project:
 
